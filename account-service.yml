@@ -4,7 +4,7 @@ greeting: "스테이징 서버 입니다."
 ---
 spring:
   profiles: dev
-greeting: "개발 서버 입니다."
+greeting: "개발 서버 입니다.!!!!!!"
 ---
 spring:
   profiles: local
