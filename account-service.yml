@@ -17,4 +17,4 @@ spring:
   profiles: local
 
 devguide:
-  greeting: "변경 로컬 서버 입니다."
+  greeting: "로컬 서버 입니다."
